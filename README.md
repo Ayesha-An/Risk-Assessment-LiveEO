@@ -1,4 +1,4 @@
-**Challenge: Asset Change Detection and Risk Assessment using Satellite Imagery**
+## **Challenge: Asset Change Detection and Risk Assessment using Satellite Imagery**
 ## **Introduction**
 Critical infrastructure such as pipelines, railways, and roads are often exposed to environmental risks, including vegetation encroachment, nearby construction, and natural changes like river movements. This report presents a methodology for monitoring such assets using satellite imagery to detect environmental changes and assess the risk posed to specific segments of the asset.
 ## **Methodology**
@@ -23,6 +23,6 @@ To visualize the analysis results, including the satellite images and detected c
 
 By using **rioxarray** and **earthpy** the complete Change area geojson file is plotted along with satellite images (**02-plot-geojson-file.ipynb**)
 
-To run the code add raster images in **Dataset** folder.
+Note: To run the code add the two (Image_t0_subset.tif, Image_t1_subset.tif) raster images in **Dataset** folder.
 
 **Risk_Assessment.qgz** is also attached to visualizelayers in QGIS.
