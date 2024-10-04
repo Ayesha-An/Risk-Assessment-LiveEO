@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Asset_line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "client": "client" }, "geometry": { "type": "LineString", "coordinates": [ [ 57.902494192083495, 23.229744665865653 ], [ 57.920616049175159, 23.25876942771594 ], [ 57.92056569902811, 23.259600205142238 ], [ 57.923099989762875, 23.263749896428095 ], [ 57.923855241968589, 23.264096053689048 ], [ 57.924945637340592, 23.26584729474105 ] ] } }
+]
+}
